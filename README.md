@@ -1,7 +1,7 @@
 ## Olá!! 👋
 
 - 🔭 Atualmente não estou trabalhando.
-- 🌱 Atualmente estou aprendendo Desenvolvimento Mobile.
+- 🌱 Atualmente estou focado em FronEnd e Desenvolvimento Mobile.
 - 📫 Como chegar até mim: gcmarcoss@gmail.com
 - 😄 Pronomes: Ele / Dele
 
